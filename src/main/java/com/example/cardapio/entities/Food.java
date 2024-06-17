@@ -1,6 +1,6 @@
 package com.example.cardapio.entities;
 
-import com.example.cardapio.dto.FoodRequestDTO;
+import com.example.cardapio.dtos.FoodRequestDTO;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
