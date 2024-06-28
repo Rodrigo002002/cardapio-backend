@@ -1,4 +1,4 @@
 package com.example.cardapio.dtos;
 
-public record FoodRequestDTO(String title, String image, Integer price) {
+public record FoodRequestDTO(Long id, String title, String image, Float price) {
 }
